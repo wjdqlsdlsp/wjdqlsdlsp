@@ -9,4 +9,4 @@
 
 #### 1. Data Visualization / Analysis
 #### 2. Machine Learning / Deep Learning ( NLP / XAI )
-#### 3. Data Engineering
+#### 3. Data Engineering / Python programming
