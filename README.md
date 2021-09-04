@@ -7,6 +7,7 @@
 
 ### - My interested -
 
+### <Data>
 #### 1. Data Visualization / Analysis
-#### 2. Machine Learning / Deep Learning ( NLP / XAI )
-#### 3. Data Engineering / Python programming
+#### 2.  Data Engineering / Python programming
+#### 3. Machine Learning / Deep Learning ( NLP / XAI )
