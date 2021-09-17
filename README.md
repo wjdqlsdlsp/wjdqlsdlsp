@@ -15,11 +15,11 @@
  <br>
 
 ### 🎈 My interesting 🎈
-  ##### 데이터 엔지니어링
-  ##### 데이터 분석 & 시각화
- <br>
- <br>
+  #### 데이터 엔지니어링
+  #### 데이터 분석 & 시각화
   
+ <br>
+ <br>
   
 [![Kaggle Badge](http://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=black)](https://www.kaggle.com/jeongbinpark)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A0%95%EB%B9%88-%EB%B0%95-9a0458209/)
