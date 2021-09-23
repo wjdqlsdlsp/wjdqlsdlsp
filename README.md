@@ -8,7 +8,7 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwjdqlsdlsp&count_bg=%23D593BF&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 ### ✏ 데이터 전문가를 목표로 공부하는 학생입니다 ✏ 
-  #### Kaggle Notebooks Master(Top 0.1% - Highest Ranking : 94th)
+  #### Kaggle Notebooks Master(Top 0.1%)
   #### 가짜연구소 DSF 1기 - Data Engineering
   #### 끊임없이 공부하는 개발자
   
