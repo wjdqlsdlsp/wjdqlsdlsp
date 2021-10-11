@@ -1,11 +1,4 @@
-
 <div align ="center">
-  
-![header](https://capsule-render.vercel.app/api?type=soft&text=Data%20Lover&animation=fadeIn&fontColor=d6ace6&color=000000)
- 
- <br> 
-  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwjdqlsdlsp&count_bg=%23D593BF&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 ### ✏ 데이터 전문가를 목표로 공부하는 학생입니다 ✏   
   #### Kaggle Notebooks Master(Top 0.1%)
@@ -17,8 +10,6 @@
 ### 🎈 My interesting 🎈
   #### 데이터 엔지니어링
   #### 데이터 분석 & 시각화
-  #### Machine Learning / NLP / XAI
-   
   
 
  <br>
