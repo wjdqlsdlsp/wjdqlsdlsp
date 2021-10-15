@@ -1,7 +1,7 @@
 <div align ="center">
   
 ### ✏ 데이터 전문가를 목표로 공부하는 학생입니다 ✏   
-  #### Kaggle Notebooks Master (Top 0.1%)
+  #### Kaggle Notebooks Master
   #### 가짜연구소 DSF 1기 - Data Engineering 
   #### 끊임없이 공부하는 개발자 
   
