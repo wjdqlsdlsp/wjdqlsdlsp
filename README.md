@@ -3,7 +3,6 @@
   ### ✏ 데이터 전문가를 목표로 공부하는 학생입니다 ✏   
   #### Kaggle Notebooks Master
   #### 가짜연구소 DSF 1기 - Data Engineering
-  #### 2021 한이음 ICT 멘토링 - 대상
   #### 끊임없이 공부하는 개발자/엔지니어
  
 <br>
