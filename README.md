@@ -4,6 +4,7 @@
   #### [Kaggle Notebooks Master](https://www.kaggle.com/jeongbinpark)
   #### [Data Visualization](https://wjdqlsdlsp.github.io/visualization/)을 즐기는 Data Artist
   #### 끊임없이 공부하는 욕심많은 개발자/엔지니어
+  #### 클린코드와 알고리즘에 관심이 많은 
 
   
   
