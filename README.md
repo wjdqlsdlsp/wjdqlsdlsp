@@ -1,9 +1,11 @@
 <div align ="center">
   
   ### ✏ 데이터 전문가를 목표로 공부하는 학생입니다 ✏   
-  #### Kaggle Notebooks Master
-  #### 가짜연구소 DSF 1기 - Data Engineering
-  #### 끊임없이 공부하는 개발자/엔지니어
+  #### [Kaggle Notebooks Master](https://www.kaggle.com/jeongbinpark)
+  #### [Data Visualization](https://wjdqlsdlsp.github.io/visualization/)을 즐기는 Data Artist
+  #### 끊임없이 공부하는 욕심많은 개발자/엔지니어
+
+  
   
   
 <br>
